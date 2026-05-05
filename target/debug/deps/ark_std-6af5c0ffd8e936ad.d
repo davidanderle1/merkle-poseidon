@@ -1,0 +1,11 @@
+C:\Users\david\merkle-poseidon\target\debug\deps\ark_std-6af5c0ffd8e936ad.d: C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\lib.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\rand_helper.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\perf_trace.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\iterable\mod.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\iterable\rev.rs
+
+C:\Users\david\merkle-poseidon\target\debug\deps\libark_std-6af5c0ffd8e936ad.rlib: C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\lib.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\rand_helper.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\perf_trace.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\iterable\mod.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\iterable\rev.rs
+
+C:\Users\david\merkle-poseidon\target\debug\deps\libark_std-6af5c0ffd8e936ad.rmeta: C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\lib.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\rand_helper.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\perf_trace.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\iterable\mod.rs C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\iterable\rev.rs
+
+C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\lib.rs:
+C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\rand_helper.rs:
+C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\perf_trace.rs:
+C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\iterable\mod.rs:
+C:\Users\david\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-std-0.4.0\src\iterable\rev.rs:
