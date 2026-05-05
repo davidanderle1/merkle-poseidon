@@ -28,3 +28,12 @@ This is a small Rust project I built to explore Merkle trees and zero-knowledge-
 ```bash
 cargo run
 ```
+
+## Next steps
+
+- Replace toy sum check with a zero-knowledge proof
+- Move from simple verification to a circuit-based approach (arkworks R1CS)
+- Explore proving that total sum > threshold without revealing individual values
+
+
+Note: the current implementation checks the sum explicitly. The next step is to replace this with a zero-knowledge proof so the verifier learns only that the condition holds, not the values.
