@@ -5,7 +5,7 @@ This is a Rust/arkworks prototype for exploring Merkle trees, zk-friendly hashin
 ## What it does
 
 - Builds a Merkle tree over field elements (`ark_bls12_381::Fr`)
-- Uses a Poseidon-based hash (instead of a simple placeholder)
+- Uses a Poseidon-based hash interface
 - Stores commitments in leaves:
 
   `commitment = hash(value, randomness)`
@@ -41,6 +41,3 @@ cargo run
 - Replace toy sum check with a zero-knowledge proof
 - Move from simple verification to a circuit-based approach (arkworks R1CS)
 - Explore proving that total sum > threshold without revealing individual values
-
-
-Note: the current implementation checks the sum explicitly. The next step is to replace this with a zero-knowledge proof so the verifier learns only that the condition holds, not the values.
