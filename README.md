@@ -29,7 +29,7 @@ This is a Rust/arkworks prototype for exploring Merkle trees, zk-friendly hashin
 cargo run
 ```
 
-## Current limitations:
+## Current limitations
 
 - The current threshold check is not zero knowledge and is computed natively in Rust.
 - The current Poseidon parameters are manual placeholder/demo parameters used for prototyping and should not be treated as production cryptographic parameters.
