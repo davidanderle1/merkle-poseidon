@@ -1,6 +1,8 @@
 # Merkle Poseidon Prototype
 
-This is a small Rust project I built to explore Merkle trees and zero-knowledge-friendly hashing using the arkworks library.
+This is a Rust/arkworks prototype for exploring Merkle trees, zk-friendly hashing, and privacy-preserving balance commitments.
+
+## What it does
 
 ## What it does
 
@@ -29,7 +31,7 @@ This is a small Rust project I built to explore Merkle trees and zero-knowledge-
 cargo run
 ```
 
-Current limitations:
+## Current limitations:
 
 The current threshold check is not zero knowledge and is computed natively in Rust.
 The current Poseidon parameters are manual placeholder/demo parameters used for prototyping and should not be treated as production cryptographic parameters.
