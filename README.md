@@ -31,10 +31,10 @@ cargo run
 
 ## Current limitations:
 
-The current threshold check is not zero knowledge and is computed natively in Rust.
-The current Poseidon parameters are manual placeholder/demo parameters used for prototyping and should not be treated as production cryptographic parameters.
-Balance values are currently represented as field elements, not bounded integer amounts with range constraints.
-This repository is an experimental research prototype, not production cryptography.
+- The current threshold check is not zero knowledge and is computed natively in Rust.
+- The current Poseidon parameters are manual placeholder/demo parameters used for prototyping and should not be treated as production cryptographic parameters.
+- Balance values are currently represented as field elements, not bounded integer amounts with range constraints.
+- This repository is an experimental research prototype, not production cryptography.
 
 ## Next steps
 
