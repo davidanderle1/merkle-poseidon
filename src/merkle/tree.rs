@@ -69,7 +69,6 @@ impl MerkleTree {
         }
 
         MerkleProof {
-            index,
             siblings,
         }
     }
