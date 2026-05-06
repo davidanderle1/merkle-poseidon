@@ -4,8 +4,6 @@ This is a Rust/arkworks prototype for exploring Merkle trees, zk-friendly hashin
 
 ## What it does
 
-## What it does
-
 - Builds a Merkle tree over field elements (`ark_bls12_381::Fr`)
 - Uses a Poseidon-based hash (instead of a simple placeholder)
 - Stores commitments in leaves:
