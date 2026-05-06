@@ -1,3 +1,8 @@
+// WARNING:
+// These Poseidon parameters are placeholder/demo parameters used only
+// for prototyping the arkworks pipeline and Merkle-tree structure.
+// They should not be treated as production cryptographic parameters.
+
 use ark_bls12_381::Fr;
 use ark_sponge::{
     poseidon::{PoseidonConfig, PoseidonSponge},
